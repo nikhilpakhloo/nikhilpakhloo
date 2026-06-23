@@ -128,6 +128,5 @@ Added streaming support for OpenAI Responses API built-in tool progress events â
 
 *"Ship code that matters. Contribute to what you use."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=nikhilpakhloo&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
