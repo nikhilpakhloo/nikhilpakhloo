@@ -107,33 +107,6 @@ Added streaming support for OpenAI Responses API built-in tool progress events �
 
 ---
 
-<!-- PROJECTS -->
-## 🚀 Projects
-
-| Project | Description | Stack | Users |
-|---------|-------------|-------|-------|
-| 🤖 **[RAG AI Doc Assistant](https://github.com/nikhilpakhloo)** | Production-ready AI document assistant with sub-2s response time using RAG pipeline | LangChain · Gemini · Pinecone · Vector Embeddings | Personal |
-| 🏥 **Figure1** | Collaborative medical network with face recognition, deep linking & push notifications | React Native · Firebase · Expo · Detox | **25K+ users** |
-| 🛗 **Massaed** | Elevator maintenance app with real-time technician tracking, reduced response time by ~25% | React Native · Socket.IO · Sentry | **2K+ users** |
-| 🏗️ **Suryacon** | Offline-first field agent attendance app with ~99% reliability in low-network environments | React Native CLI · Redux · SQLite | **500+ agents** |
-| ✈️ **Gatef8** | Geo-location based airport networking app with live traveller discovery | React Native · Fastlane · Sentry | Live |
-
----
-
-<!-- STATS -->
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhilpakhloo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilpakhloo&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=A78BFA&text_color=C4B5FD"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilpakhloo&theme=midnight-purple&hide_border=true&background=0f0c29&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA" />
-</div>
-
----
-
 <!-- ACHIEVEMENTS -->
 ## 🏆 By The Numbers
 
