@@ -25,9 +25,8 @@
 ```ts
 const nikhil = {
   role        : "React Native Developer",
-  experience  : "2.5 years",
+  experience  : "2 years",
   location    : "Mohali, Punjab 🇮🇳",
-  currentWork : "Codingzone Solutions (Agency)",
   
   superPowers : [
     "React Native New Architecture (Fabric, TurboModules, JSI)",
