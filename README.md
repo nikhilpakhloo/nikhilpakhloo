@@ -113,7 +113,7 @@ Added streaming support for OpenAI Responses API built-in tool progress events �
 
 | 🚀 | 📦 | 🌍 | 🔬 |
 |:---:|:---:|:---:|:---:|
-| **2.5 Years** | **25K+ Users** | **4 Production Apps** | **2 OSS Merged PRs** |
+| **2 Years** | **25K+ Users** | **4 Production Apps** | **2 OSS Merged PRs** |
 | Experience | Served across apps | Shipped end-to-end | React Native Core & LangChain.js |
 
 </div>
